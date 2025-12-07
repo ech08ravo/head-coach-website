@@ -1146,3 +1146,28 @@ textarea.form-control {
     padding-bottom: var(--space-lg);
     color: var(--text-body);
 }
+
+
+.page .entry-title {
+    display: none;
+}
+
+.page .entry-header {
+    display: none;
+}
+
+/* Remove default padding */
+.site-content {
+    padding: 0;
+}
+
+.content-area {
+    padding: 0;
+}
+
+/* Full width pages */
+.page .entry-content {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+}
