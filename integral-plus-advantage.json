@@ -1,7 +1,7 @@
 {
   "content": [
     {
-      "id": "ia5001",
+      "id": "ia9001",
       "settings": {
         "boxed_width": {
           "unit": "px",
@@ -23,16 +23,16 @@
       },
       "elements": [
         {
-          "id": "ia5002",
+          "id": "ia9002",
           "settings": {
-            "title": "The Integral+ Advantage",
+            "title": "The Integral+ Advantage: How HeadCoach Transcends and Includes Traditional Sport Psychology Frameworks",
             "header_size": "h1",
             "align": "center",
             "typography_typography": "custom",
             "typography_font_family": "Cormorant Garamond",
             "typography_font_size": {
               "unit": "px",
-              "size": 56,
+              "size": 48,
               "sizes": []
             },
             "typography_font_weight": "400",
@@ -52,38 +52,9 @@
           "elType": "widget"
         },
         {
-          "id": "ia5003",
+          "id": "ia9003",
           "settings": {
-            "title": "How HeadCoach Transcends and Includes Traditional Sport Psychology",
-            "header_size": "h2",
-            "align": "center",
-            "typography_typography": "custom",
-            "typography_font_family": "Cormorant Garamond",
-            "typography_font_size": {
-              "unit": "px",
-              "size": 24,
-              "sizes": []
-            },
-            "typography_font_weight": "400",
-            "title_color": "#FFFFFF",
-            "_margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [],
-          "isInner": false,
-          "widgetType": "heading",
-          "elType": "widget"
-        },
-        {
-          "id": "ia5004",
-          "settings": {
-            "editor": "<p>A Comparative Analysis of Mental Training Approaches</p>",
+            "editor": "<p style='text-align:center;'>A Comparative Analysis of Mental Training Approaches</p>",
             "text_color": "rgba(255,255,255,0.9)",
             "align": "center",
             "_margin": {
@@ -105,7 +76,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5005",
+      "id": "ia9004",
       "settings": {
         "padding": {
           "unit": "px",
@@ -119,7 +90,7 @@
       },
       "elements": [
         {
-          "id": "ia5006",
+          "id": "ia9005",
           "settings": {
             "title": "+",
             "header_size": "h2",
@@ -144,7 +115,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5007",
+      "id": "ia9006",
       "settings": {
         "boxed_width": {
           "unit": "px",
@@ -158,7 +129,7 @@
           "unit": "px",
           "top": "100",
           "right": "50",
-          "bottom": "100",
+          "bottom": "80",
           "left": "50",
           "isLinked": false
         },
@@ -166,9 +137,9 @@
       },
       "elements": [
         {
-          "id": "ia5008",
+          "id": "ia9007",
           "settings": {
-            "title": "Evolution, Not Revolution",
+            "title": "Introduction: Evolution, Not Revolution",
             "header_size": "h2",
             "align": "center",
             "typography_typography": "custom",
@@ -195,11 +166,11 @@
           "elType": "widget"
         },
         {
-          "id": "ia5009",
+          "id": "ia9008",
           "settings": {
-            "editor": "<p>Robin Vealey's (2024) comprehensive framework for mental training in sport represents the current state-of-the-art in sport psychology academic thinking.</p><p><strong>HeadCoach's Integral+ approach doesn't reject this framework\u2014it transcends and includes it.</strong></p><p>This analysis demonstrates how the Integral+ methodology operates at a higher level of developmental complexity while honoring traditional sport psychology frameworks.</p>",
+            "editor": "<p>Robin Vealey's (2024) comprehensive framework for mental training in sport represents the current state-of-the-art in sport psychology academic thinking. Published in the <em>Journal of Applied Sport Psychology</em>, her model articulates how mental performance consultants work with athletes through philosophies, models, strategies, and techniques to build mental skills and mental health.</p><p><strong>HeadCoach's Integral+ approach doesn't reject this framework\u2014it transcends and includes it.</strong></p><p>This article demonstrates how the Integral+ methodology operates at a higher level of developmental complexity while honoring and incorporating the valuable contributions of traditional sport psychology frameworks like Vealey's.</p>",
             "text_color": "#4A5568",
-            "align": "center",
+            "align": "left",
             "_margin": {
               "unit": "px",
               "top": "0",
@@ -211,7 +182,7 @@
             "_element_width": "initial",
             "_element_custom_width": {
               "unit": "%",
-              "size": 85,
+              "size": 90,
               "sizes": []
             },
             "_flex_align_self": "center"
@@ -226,7 +197,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5010",
+      "id": "ia9009",
       "settings": {
         "padding": {
           "unit": "px",
@@ -240,7 +211,7 @@
       },
       "elements": [
         {
-          "id": "ia5011",
+          "id": "ia9010",
           "settings": {
             "title": "+",
             "header_size": "h2",
@@ -265,7 +236,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5012",
+      "id": "ia9011",
       "settings": {
         "boxed_width": {
           "unit": "px",
@@ -287,7 +258,7 @@
       },
       "elements": [
         {
-          "id": "ia5013",
+          "id": "ia9012",
           "settings": {
             "title": "The Vealey Framework: A Solid Foundation",
             "header_size": "h2",
@@ -316,11 +287,11 @@
           "elType": "widget"
         },
         {
-          "id": "ia5014",
+          "id": "ia9013",
           "settings": {
-            "editor": "<p>Vealey's framework organizes mental training into comprehensive components including consultant philosophy, mental skills across four categories, mental health integration, and clear outcomes.</p><p style='margin-top:30px;'><strong>What Vealey Gets Right:</strong> Comprehensive, integrates mental health with performance, acknowledges both traditional and acceptance-based approaches, recognizes that context matters. Excellent synthesis of decades of sport psychology research.</p>",
+            "editor": "<p>Vealey's (2024) framework represents a significant advancement in sport psychology, organizing mental training into:</p><h3 style=\"color: #2A7D7D; margin-top: 30px; margin-bottom: 20px;\">Core Components:</h3><p><strong>1. Consultant Philosophy & Model of Practice</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Theoretical foundations (CBT, humanistic, acceptance-based)</li><li>Structured models (MAC, REBT, IZOF)</li><li>Strategies and techniques (imagery, self-talk, goal setting)</li></ul><p><strong>2. Four Categories of Mental Skills</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>Personal Foundation Skills:</strong> Motivation, self-awareness, productive thinking, self-confidence, mindfulness/acceptance, self-compassion</li><li><strong>Performance Skills:</strong> Perceptual-cognitive ability, attentional focus, energy management</li><li><strong>Personal Development Skills:</strong> Identity achievement, interpersonal competence, lifestyle management, leadership</li><li><strong>Team Skills:</strong> Communication, psychological safety, cohesion, team confidence</li></ul><p><strong>3. Mental Health as Wellbeing</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Emotional wellbeing (hedonic)</li><li>Psychological wellbeing (eudaimonic functioning)</li><li>Social wellbeing (community connection)</li></ul><p><strong>4. Outcomes</strong></p><ul style=\"margin-left: 20px; margin-bottom: 30px;\"><li>Performance enhancement</li><li>Personal development</li><li>Experience optimization (satisfaction, flow, enjoyment)</li></ul><h3 style=\"color: #2A7D7D; margin-top: 40px; margin-bottom: 20px;\">What Vealey Gets Right:</h3><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>Comprehensiveness:</strong> Moves beyond just \"performance skills\" to include development and wellbeing</li><li><strong>Mental health integration:</strong> Recognizes that mental performance consultants should address subclinical mental health, not just refer out</li><li><strong>Hard and soft skills:</strong> Acknowledges both traditional \"toughness\" skills and newer acceptance-based approaches</li><li><strong>Process orientation:</strong> Shows the flow from philosophy \u2192 model \u2192 strategies \u2192 techniques</li><li><strong>Sociocultural awareness:</strong> Acknowledges context matters</li></ul><p style=\"margin-top: 30px;\"><strong>This is excellent work.</strong> Vealey has synthesized decades of sport psychology research into a usable framework for practitioners.</p>",
             "text_color": "#4A5568",
-            "align": "center",
+            "align": "left",
             "_margin": {
               "unit": "px",
               "top": "0",
@@ -332,7 +303,7 @@
             "_element_width": "initial",
             "_element_custom_width": {
               "unit": "%",
-              "size": 85,
+              "size": 90,
               "sizes": []
             },
             "_flex_align_self": "center"
@@ -347,7 +318,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5015",
+      "id": "ia9014",
       "settings": {
         "padding": {
           "unit": "px",
@@ -361,7 +332,7 @@
       },
       "elements": [
         {
-          "id": "ia5016",
+          "id": "ia9015",
           "settings": {
             "title": "+",
             "header_size": "h2",
@@ -386,7 +357,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5017",
+      "id": "ia9016",
       "settings": {
         "boxed_width": {
           "unit": "px",
@@ -408,9 +379,9 @@
       },
       "elements": [
         {
-          "id": "ia5018",
+          "id": "ia9017",
           "settings": {
-            "title": "Where Traditional Frameworks Fall Short",
+            "title": "Where Traditional Frameworks Fall Short: The Developmental Blind Spot",
             "header_size": "h2",
             "align": "center",
             "typography_typography": "custom",
@@ -437,23 +408,23 @@
           "elType": "widget"
         },
         {
-          "id": "ia5019",
+          "id": "ia9018",
           "settings": {
-            "editor": "<p>Despite sophistication, traditional sport psychology operates primarily within a single developmental stage.</p>",
+            "editor": "<p>Despite its sophistication, Vealey's framework\u2014like most sport psychology models\u2014operates primarily within a <strong>single developmental stage</strong> (what integral theory calls \"Orange-Green\" or \"achievement-pluralistic\" consciousness).</p><h3 style=\"color: #2A7D7D; margin-top: 30px; margin-bottom: 20px;\">The Missing Dimensions:</h3><p><strong>No Developmental Lens</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Assumes all athletes process mental skills the same way</li><li>Doesn't account for different stages of psychological maturity</li><li>No recognition that <em>how</em> an athlete makes meaning determines <em>what</em> interventions will work</li></ul><p><strong>Flat Skills Model</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Lists skills as if they're all equivalent and equally accessible</li><li>Doesn't show how skills build developmentally</li><li>No recognition that some skills require more cognitive complexity than others</li></ul><p><strong>Limited Perspective Work</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Mentions \"self-awareness\" but doesn't systematically train perspective-taking</li><li>No explicit framework for 1st/2nd/3rd person view flexibility</li><li>Doesn't recognize that psychological growth IS perspective growth</li></ul><p><strong>Consultant-Centric</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Framework centers on what consultants do TO/FOR athletes</li><li>Limited emphasis on athlete agency and self-authorship</li><li>Doesn't explicitly develop athletes' capacity to become their own mental performance experts</li></ul><p><strong>Meaning making - epistemology</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>No recognition that different athletes have different truth-validation systems</li><li>Assumes rational-empirical knowing works for everyone</li></ul>",
             "text_color": "#4A5568",
-            "align": "center",
+            "align": "left",
             "_margin": {
               "unit": "px",
               "top": "0",
               "right": "0",
-              "bottom": "40",
+              "bottom": "0",
               "left": "0",
               "isLinked": false
             },
             "_element_width": "initial",
             "_element_custom_width": {
               "unit": "%",
-              "size": 85,
+              "size": 90,
               "sizes": []
             },
             "_flex_align_self": "center"
@@ -462,418 +433,13 @@
           "isInner": false,
           "widgetType": "text-editor",
           "elType": "widget"
-        },
-        {
-          "id": "ia5020",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5021",
-              "settings": {
-                "title": "No Developmental Lens",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5022",
-              "settings": {
-                "editor": "<p>Assumes all athletes process mental skills the same way, without accounting for different stages of psychological maturity or cognitive complexity.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5023",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5024",
-              "settings": {
-                "title": "Flat Skills Model",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5025",
-              "settings": {
-                "editor": "<p>Lists skills as equivalent and equally accessible, with no recognition that some require more developmental capacity than others.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5026",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5027",
-              "settings": {
-                "title": "Limited Perspective Work",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5028",
-              "settings": {
-                "editor": "<p>Mentions self-awareness but doesn't systematically train perspective-taking across 1st/2nd/3rd person views.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5029",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5030",
-              "settings": {
-                "title": "Consultant-Centric",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5031",
-              "settings": {
-                "editor": "<p>Framework centers on what consultants do TO/FOR athletes, with limited emphasis on athlete agency and self-authorship.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5032",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5033",
-              "settings": {
-                "title": "Meaning-Making Gap",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5034",
-              "settings": {
-                "editor": "<p>No recognition that different athletes have different truth-validation systems and ways of knowing.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
         }
       ],
       "isInner": false,
       "elType": "container"
     },
     {
-      "id": "ia5035",
+      "id": "ia9019",
       "settings": {
         "padding": {
           "unit": "px",
@@ -887,7 +453,7 @@
       },
       "elements": [
         {
-          "id": "ia5036",
+          "id": "ia9020",
           "settings": {
             "title": "+",
             "header_size": "h2",
@@ -912,7 +478,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5037",
+      "id": "ia9021",
       "settings": {
         "boxed_width": {
           "unit": "px",
@@ -934,9 +500,9 @@
       },
       "elements": [
         {
-          "id": "ia5038",
+          "id": "ia9022",
           "settings": {
-            "title": "The Integral+ Difference",
+            "title": "The Integral+ Difference: Adding Developmental Altitude",
             "header_size": "h2",
             "align": "center",
             "typography_typography": "custom",
@@ -963,9 +529,9 @@
           "elType": "widget"
         },
         {
-          "id": "ia5039",
+          "id": "ia9023",
           "settings": {
-            "editor": "<p><strong>HeadCoach's Integral+ approach includes everything valuable from traditional frameworks but adds crucial dimensions that exponentially increase effectiveness.</strong></p>",
+            "editor": "<p style='text-align:center;'><strong>HeadCoach's Integral+ approach includes everything valuable from Vealey's framework but adds crucial dimensions that exponentially increase effectiveness.</strong></p>",
             "text_color": "rgba(255,255,255,0.95)",
             "align": "center",
             "_margin": {
@@ -973,127 +539,6 @@
               "top": "0",
               "right": "0",
               "bottom": "0",
-              "left": "0",
-              "isLinked": false
-            },
-            "_element_width": "initial",
-            "_element_custom_width": {
-              "unit": "%",
-              "size": 80,
-              "sizes": []
-            },
-            "_flex_align_self": "center"
-          },
-          "elements": [],
-          "isInner": false,
-          "widgetType": "text-editor",
-          "elType": "widget"
-        }
-      ],
-      "isInner": false,
-      "elType": "container"
-    },
-    {
-      "id": "ia5040",
-      "settings": {
-        "padding": {
-          "unit": "px",
-          "top": "40",
-          "right": "0",
-          "bottom": "40",
-          "left": "0",
-          "isLinked": false
-        },
-        "flex_align_items": "center"
-      },
-      "elements": [
-        {
-          "id": "ia5041",
-          "settings": {
-            "title": "+",
-            "header_size": "h2",
-            "align": "center",
-            "typography_typography": "custom",
-            "typography_font_family": "Cormorant Garamond",
-            "typography_font_size": {
-              "unit": "px",
-              "size": 48,
-              "sizes": []
-            },
-            "typography_font_weight": "300",
-            "title_color": "#D4A84B"
-          },
-          "elements": [],
-          "isInner": false,
-          "widgetType": "heading",
-          "elType": "widget"
-        }
-      ],
-      "isInner": false,
-      "elType": "container"
-    },
-    {
-      "id": "ia5042",
-      "settings": {
-        "boxed_width": {
-          "unit": "px",
-          "size": 1200,
-          "sizes": []
-        },
-        "flex_direction": "column",
-        "background_background": "classic",
-        "background_color": "#F8F9FA",
-        "padding": {
-          "unit": "px",
-          "top": "100",
-          "right": "50",
-          "bottom": "100",
-          "left": "50",
-          "isLinked": false
-        },
-        "flex_align_items": "center"
-      },
-      "elements": [
-        {
-          "id": "ia5043",
-          "settings": {
-            "title": "Seven Key Distinctions",
-            "header_size": "h2",
-            "align": "center",
-            "typography_typography": "custom",
-            "typography_font_family": "Cormorant Garamond",
-            "typography_font_size": {
-              "unit": "px",
-              "size": 42,
-              "sizes": []
-            },
-            "typography_font_weight": "400",
-            "title_color": "#1A3A5C",
-            "_margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "30",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [],
-          "isInner": false,
-          "widgetType": "heading",
-          "elType": "widget"
-        },
-        {
-          "id": "ia5044",
-          "settings": {
-            "editor": "<p>The Integral+ methodology adds seven critical dimensions that transform mental performance coaching from skill-building to consciousness evolution.</p>",
-            "text_color": "#4A5568",
-            "align": "center",
-            "_margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "60",
               "left": "0",
               "isLinked": false
             },
@@ -1109,580 +554,13 @@
           "isInner": false,
           "widgetType": "text-editor",
           "elType": "widget"
-        },
-        {
-          "id": "ia5045",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5046",
-              "settings": {
-                "title": "1. Lines of Development",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5047",
-              "settings": {
-                "editor": "<p>Recognizes that mental skills develop along multiple independent lines (cognitive, emotional, moral, interpersonal, somatic). We assess developmental altitude on each line and design interventions matched to where the athlete actually is.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5048",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5049",
-              "settings": {
-                "title": "2. Quadrant Mapping (AQAL)",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5050",
-              "settings": {
-                "editor": "<p>Every challenge exists simultaneously across four quadrants: Interior-Individual (mindset), Exterior-Individual (behavior), Interior-Collective (culture), and Exterior-Collective (systems). We intervene in all four simultaneously.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5051",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5052",
-              "settings": {
-                "title": "3. Stages of Development",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5053",
-              "settings": {
-                "editor": "<p>Explicitly assesses and works with developmental stage (Red/Amber/Orange/Green/Teal). The same 'confidence issue' requires completely different interventions based on developmental stage.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5054",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5055",
-              "settings": {
-                "title": "4. Identity Compass",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5056",
-              "settings": {
-                "editor": "<p>Systematic assessment of 16+ cognitive preferences that determine how athletes take in information, motivate themselves, process during performance, and make decisions.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5057",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5058",
-              "settings": {
-                "title": "5. Shadow Work",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5059",
-              "settings": {
-                "editor": "<p>Explicit shadow work identifies projections, recognizes disowned traits, and integrates unconscious capacities. Athletes don't just have skill deficits\u2014they have disowned capacities.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5060",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5061",
-              "settings": {
-                "title": "6. State Work",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5062",
-              "settings": {
-                "editor": "<p>Trains across multiple consciousness states: gross (wakeful performance), subtle (imagery), causal (recovery), witness (mindfulness), and non-dual (flow). We train what state athletes are in when they think.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
-        },
-        {
-          "id": "ia5063",
-          "settings": {
-            "content_width": "full",
-            "background_background": "classic",
-            "background_color": "#FFFFFF",
-            "padding": {
-              "unit": "px",
-              "top": "30",
-              "right": "30",
-              "bottom": "30",
-              "left": "30",
-              "isLinked": true
-            },
-            "border_radius": {
-              "unit": "px",
-              "size": 8
-            },
-            "margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "20",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [
-            {
-              "id": "ia5064",
-              "settings": {
-                "title": "7. Self-Authorship",
-                "header_size": "h3",
-                "align": "start",
-                "typography_typography": "custom",
-                "typography_font_family": "Cormorant Garamond",
-                "typography_font_size": {
-                  "unit": "px",
-                  "size": 24,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "title_color": "#2A7D7D",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "15",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "heading",
-              "elType": "widget"
-            },
-            {
-              "id": "ia5065",
-              "settings": {
-                "editor": "<p>The goal is to make athletes their own experts. We teach meta-frameworks so athletes can self-diagnose, self-prescribe, self-correct, and self-evolve through increasingly complex challenges.</p>",
-                "text_color": "#4A5568",
-                "align": "start",
-                "_margin": {
-                  "unit": "px",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": [],
-              "isInner": false,
-              "widgetType": "text-editor",
-              "elType": "widget"
-            }
-          ],
-          "isInner": false,
-          "elType": "container"
         }
       ],
       "isInner": false,
       "elType": "container"
     },
     {
-      "id": "ia5066",
+      "id": "ia9024",
       "settings": {
         "padding": {
           "unit": "px",
@@ -1696,7 +574,7 @@
       },
       "elements": [
         {
-          "id": "ia5067",
+          "id": "ia9025",
           "settings": {
             "title": "+",
             "header_size": "h2",
@@ -1721,7 +599,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5068",
+      "id": "ia9026",
       "settings": {
         "boxed_width": {
           "unit": "px",
@@ -1743,16 +621,16 @@
       },
       "elements": [
         {
-          "id": "ia5069",
+          "id": "ia9027",
           "settings": {
-            "title": "What Integral+ Adds",
+            "title": "Key Distinction #1: Lines of Development, Not Just Skills Lists",
             "header_size": "h2",
             "align": "center",
             "typography_typography": "custom",
             "typography_font_family": "Cormorant Garamond",
             "typography_font_size": {
               "unit": "px",
-              "size": 42,
+              "size": 38,
               "sizes": []
             },
             "typography_font_weight": "400",
@@ -1772,11 +650,11 @@
           "elType": "widget"
         },
         {
-          "id": "ia5070",
+          "id": "ia9028",
           "settings": {
-            "editor": "<div style=\"max-width: 900px; margin: 0 auto; text-align: left;\">\n<p><strong style=\"color: #2A7D7D;\">\u2713 Developmental stages</strong> - Meeting athletes where they are, not where we want them to be</p>\n<p><strong style=\"color: #2A7D7D;\">\u2713 Lines of development</strong> - Independent growth trajectories across cognitive, emotional, moral, interpersonal domains</p>\n<p><strong style=\"color: #2A7D7D;\">\u2713 Quadrant awareness</strong> - Simultaneous intervention across interior/exterior and individual/collective</p>\n<p><strong style=\"color: #2A7D7D;\">\u2713 Identity Compass</strong> - Systematic assessment and leveraging of cognitive patterns</p>\n<p><strong style=\"color: #2A7D7D;\">\u2713 State work</strong> - Training across waking, dreaming, witness, and flow states</p>\n<p><strong style=\"color: #2A7D7D;\">\u2713 Shadow integration</strong> - Systematic reclamation of disowned capacities</p>\n<p><strong style=\"color: #2A7D7D;\">\u2713 Perspective flexibility</strong> - Explicit training in 1st/2nd/3rd person views</p>\n<p><strong style=\"color: #2A7D7D;\">\u2713 Vertical development</strong> - Not just skill building, but consciousness evolution</p>\n</div>",
+            "editor": "<p><strong>Vealey's Approach:</strong><br>Lists mental skills across four categories (foundation, performance, development, team) as relatively flat, trainable capabilities.</p><p><strong>Integral+ Approach:</strong><br>Recognizes that <strong>mental skills develop along multiple independent lines</strong> (cognitive, emotional, moral, interpersonal, somatic) and that athletes can be at different stages on different lines.</p><p><strong>Example:</strong> An athlete might have:</p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>Elite cognitive line</strong> (sophisticated tactical thinking)</li><li><strong>Underdeveloped emotional line</strong> (struggle with regulation)</li><li><strong>Strong interpersonal line</strong> (natural leadership)</li><li><strong>Emerging self-identity line</strong> (still forming independent sense of self)</li></ul><p><strong>The Integral+ Advantage:</strong> We <strong>assess developmental altitude on each line</strong> and design interventions matched to where the athlete <strong>actually is</strong>, not where we think they should be.</p><p>This is why generic \"confidence building\" exercises fail\u2014they're designed for athletes at a specific developmental stage. <strong>We meet athletes where they are and build from there.</strong></p>",
             "text_color": "#4A5568",
-            "align": "center",
+            "align": "left",
             "_margin": {
               "unit": "px",
               "top": "0",
@@ -1784,7 +662,14 @@
               "bottom": "0",
               "left": "0",
               "isLinked": false
-            }
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
           },
           "elements": [],
           "isInner": false,
@@ -1796,7 +681,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5071",
+      "id": "ia9029",
       "settings": {
         "padding": {
           "unit": "px",
@@ -1810,7 +695,7 @@
       },
       "elements": [
         {
-          "id": "ia5072",
+          "id": "ia9030",
           "settings": {
             "title": "+",
             "header_size": "h2",
@@ -1835,7 +720,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5073",
+      "id": "ia9031",
       "settings": {
         "boxed_width": {
           "unit": "px",
@@ -1857,7 +742,854 @@
       },
       "elements": [
         {
-          "id": "ia5074",
+          "id": "ia9032",
+          "settings": {
+            "title": "Key Distinction #2: Quadrant Mapping - The AQAL Framework",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 38,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "ia9033",
+          "settings": {
+            "editor": "<p><strong>Vealey's Approach:</strong><br>Mentions \"sociocultural environment\" but treats it as external context rather than integral to the system.</p><p><strong>Integral+ Approach:</strong><br>Every mental performance challenge exists simultaneously in Wilber's four quadrants:</p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>UL (Upper-Left / Interior-Individual):</strong> Thoughts, beliefs, mindset, internal narrative</li><li><strong>UR (Upper-Right / Exterior-Individual):</strong> Behaviors, physiology, performance data</li><li><strong>LL (Lower-Left / Interior-Collective):</strong> Team culture, shared values, relationships</li><li><strong>LR (Lower-Right / Exterior-Collective):</strong> Systems, structures, organizational design</li></ul><p><strong>The Integral+ Advantage:</strong><br>When an athlete <em>says</em> \"I'm not confident,\" traditional sport psychology stays in UL (thoughts/beliefs) and UR (performance stats).</p><p>Integral+ asks:</p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>UL (Interior-Individual):</strong> What's your internal narrative? What meaning are you making?</li><li><strong>UR (Exterior-Individual):</strong> What behaviours/preparation rituals support confidence? What's your physiological state?</li><li><strong>LL (Interior-Collective):</strong> What's the team culture around confidence? Do teammates model vulnerability or invincibility? What's your relationship with your coach?</li><li><strong>LR (Exterior-Collective):</strong> What organizational systems reward or punish risk-taking? What's the training structure? How does performance measurement impact confidence?</li></ul><p><strong>We intervene in ALL four quadrants simultaneously.</strong></p><p>This is why HeadCoach works with teams AND individuals, coaches AND athletes, culture AND psychology. <strong>You can't optimize one quadrant in isolation.</strong></p>",
+            "text_color": "#4A5568",
+            "align": "left",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9034",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9035",
+          "settings": {
+            "title": "+",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9036",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9037",
+          "settings": {
+            "title": "Key Distinction #3: Stages of Development - Meeting Athletes Where They Are",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 38,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "ia9038",
+          "settings": {
+            "editor": "<p><strong>Vealey's Approach:</strong><br>Assumes athletes are cognitively ready for self-reflection, metacognition, and rational self-regulation (essentially Orange/Green stage capacities).</p><p><strong>Integral+ Approach:</strong><br>Explicitly assesses and works with developmental stage:</p><table style=\"width: 100%; border-collapse: collapse; margin: 20px 0;\"><tr style=\"background-color: #2A7D7D; color: white;\"><th style=\"padding: 12px; text-align: left; border: 1px solid #ddd;\">Stage</th><th style=\"padding: 12px; text-align: left; border: 1px solid #ddd;\">Characteristics</th><th style=\"padding: 12px; text-align: left; border: 1px solid #ddd;\">Mental Training Approach</th></tr><tr><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Red (Impulsive-Egocentric)</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Power-oriented, immediate gratification, \"what's in it for me?\"</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Direct, authoritative, consequence-based. Focus on channeling aggression, establishing boundaries. Coach as authority figure.</td></tr><tr style=\"background-color: #F8F9FA;\"><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Amber (Conformist-Mythic)</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Rule-following, tradition, belonging, \"the right way\"</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Clear structures, rituals, team identity. Confidence through role fulfillment. Coach as wise guide providing certainty.</td></tr><tr><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Orange (Achievement-Strategic)</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Goal-oriented, rational, competitive, \"what works?\"</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Performance metrics, evidence-based techniques, strategic planning. Confidence through competence. Coach as expert consultant.</td></tr><tr style=\"background-color: #F8F9FA;\"><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Green (Pluralistic-Egalitarian)</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Relationship-focused, empathetic, consensus, \"everyone's perspective matters\"</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Collaborative goal-setting, emotional intelligence, values exploration. Confidence through authenticity. Coach as facilitator.</td></tr><tr><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Teal (Integral-Systemic)</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Systems-thinking, paradox-holding, self-authoring, \"multiple truths\"</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Meta-awareness practices, perspective flexibility, identity architecture. Confidence through self-knowledge. Coach as developmental partner.</td></tr></table><p><strong>Example: Athlete struggling with confidence after benching:</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>Red-stage athlete:</strong> \"Coach doesn't respect me\" \u2192 Intervention: Re-establish power/agency, create opportunities to fully express one's self in training</li><li><strong>Amber-stage athlete:</strong> \"I violated team standards\" \u2192 Intervention: Clarify expectations, restore role/status through adherence</li><li><strong>Orange-stage athlete:</strong> \"I'm not performing to my potential\" \u2192 Intervention: Analyse performance data, optimise preparation, create a plan</li><li><strong>Green-stage athlete:</strong> \"I feel disconnected from my authentic self\" \u2192 Intervention: Values clarification, relationship repair, collaborative inquiry via coaching</li><li><strong>Teal-stage athlete:</strong> \"I'm attached to an identity that's no longer serving me\" \u2192 Intervention: Identity architecture, perspective work, shadow work</li></ul><p><strong>The same \"confidence issue\" requires completely different interventions based on developmental stage.</strong></p><p>Traditional sport psychology uses Orange/Green interventions for everyone. <strong>That's why so much mental training doesn't work.</strong></p>",
+            "text_color": "#4A5568",
+            "align": "left",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9039",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9040",
+          "settings": {
+            "title": "+",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9041",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F8F9FA",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9042",
+          "settings": {
+            "title": "Key Distinction #4: The Identity Compass - Cognitive Preferences as Leverage",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 38,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "ia9043",
+          "settings": {
+            "editor": "<p><strong>Vealey's Approach:</strong><br>Acknowledges individual differences but doesn't systematically assess and leverage cognitive biases.</p><p><strong>Integral+ Approach:</strong><br>The Identity Compass reveals 16+ dimensions of unconscious cognitive preferences that determine how athletes:</p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Take in information (sensory channel, primary interest)</li><li>Motivate themselves (toward/away, internal/external reference)</li><li>Process during performance (perceptual-cognitive, attentional, energy)</li><li>Make decisions (detail/global, concrete/abstract, options/procedures)</li></ul><p><strong>The Integral+ Advantage:</strong><br>If an athlete has:</p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>High external reference</strong> \u2192 Building confidence through internal validation won't work until we first build internal authority</li><li><strong>Detail preference</strong> \u2192 Global \"just focus on the process\" coaching will fail without breaking down specific steps</li><li><strong>Away-motivated</strong> \u2192 Purely positive \"toward\" goal-setting creates no motivational pull</li><li><strong>High second-person perspective</strong> \u2192 They're constantly in \"what do others think?\" mode and need first/third-person development</li></ul><p><strong>We don't just teach mental skills\u2014we teach them in the LANGUAGE the athlete's nervous system already speaks.</strong></p><p>This is why HeadCoach athletes report \"finally, someone who gets how my brain works.\"</p>",
+            "text_color": "#4A5568",
+            "align": "left",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9044",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9045",
+          "settings": {
+            "title": "+",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9046",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9047",
+          "settings": {
+            "title": "Key Distinction #5: Shadow Work - The Missing Element",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 38,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "ia9048",
+          "settings": {
+            "editor": "<p><strong>Vealey's Approach:</strong><br>Mentions \"self-awareness\" but doesn't systematically address unconscious material, projection, or disowned parts.</p><p><strong>Integral+ Approach:</strong><br>Explicit shadow work is core to our methodology.</p><p><strong>Shadow framework:</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Shadow projection identification</li><li>Recognition of disowned traits (dark and golden)</li><li>Reclamation and integration processes</li><li>3-2-1 shadow work (face it, talk to it, be it)</li></ul><p><strong>Example: Athlete who \"hates arrogant competitors\":</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>Traditional approach:</strong> Manage emotions, focus on your process, don't worry about others</li><li><strong>Integral+ approach:</strong><ul style=\"margin-left: 20px; margin-top: 10px;\"><li><strong>Recognize projection:</strong> The arrogance you see in them is golden shadow/confidence you won't claim</li><li><strong>Own it:</strong> \"I am arrogant\" (in healthy, context-appropriate ways)</li><li><strong>Integrate it:</strong> Develop conscious access to healthy self-assertion and presence</li><li><strong>Result:</strong> Emotional charge disappears, performance improves, you reclaim your power</li></ul></li></ul><p><strong>Athletes don't just have mental skills deficits\u2014they have disowned capacities.</strong></p><p>Shadow work is <strong>systematically absent from sport psychology</strong> because most consultants operate from Green-stage \"everyone is perfect as they are\" assumptions. <strong>We know better.</strong></p>",
+            "text_color": "#4A5568",
+            "align": "left",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9049",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9050",
+          "settings": {
+            "title": "+",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9051",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F8F9FA",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9052",
+          "settings": {
+            "title": "Key Distinction #6: State Work - The Phenomenological Dimension",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 38,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "ia9053",
+          "settings": {
+            "editor": "<p><strong>Vealey's Approach:</strong><br>Focuses on cognitive and behavioural skills, with some attention to \"energy management\" and mindfulness.</p><p><strong>Integral+ Approach:</strong><br>Explicit state training across multiple dimensions:</p><table style=\"width: 100%; border-collapse: collapse; margin: 20px 0;\"><tr style=\"background-color: #2A7D7D; color: white;\"><th style=\"padding: 12px; text-align: left; border: 1px solid #ddd;\">State Type</th><th style=\"padding: 12px; text-align: left; border: 1px solid #ddd;\">Training Method</th><th style=\"padding: 12px; text-align: left; border: 1px solid #ddd;\">Outcome</th></tr><tr><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Gross (wakeful)</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Cognitive skills, self-talk, focus</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Traditional performance skills</td></tr><tr style=\"background-color: #F8F9FA;\"><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Subtle</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Imagery, visualization, mental rehearsal</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Enhanced preparation and recovery</td></tr><tr><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Causal</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Recovery protocols, sleep hygiene, underlying mental structures that may limit and/or support</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Physiological restoration, inquiry/developmental coaching</td></tr><tr style=\"background-color: #F8F9FA;\"><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Witness</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Mindfulness, meditation, centring</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Present-moment awareness</td></tr><tr><td style=\"padding: 12px; border: 1px solid #ddd;\"><strong>Non-dual</strong></td><td style=\"padding: 12px; border: 1px solid #ddd;\">Flow state training, effortless performance</td><td style=\"padding: 12px; border: 1px solid #ddd;\">Peak performance states</td></tr></table><p><strong>The Integral+ Advantage:</strong></p><p style=\"font-style: italic; margin: 20px 0;\">\"We don't just train what athletes think, we train what state they're in when they think it.\"</p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Pre-performance routines that shift state (not just behaviour)</li><li>Flow state triggers and maintenance</li><li>Recovery states (not just physical, but consciousness-based)</li><li>Witness consciousness for pressure situations</li></ul><p>This is why Integral+ athletes report \"I found a gear I didn't know I had.\"</p>",
+            "text_color": "#4A5568",
+            "align": "left",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9054",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9055",
+          "settings": {
+            "title": "+",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9056",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9057",
+          "settings": {
+            "title": "Key Distinction #7: From External Consultant to Self-Authoring Athlete",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 38,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "ia9058",
+          "settings": {
+            "editor": "<p><strong>Vealey's Approach:</strong><br>Framework centres on consultant delivering services to athletes (philosophy \u2192 model \u2192 strategies \u2192 techniques \u2192 outcomes).</p><p><strong>Integral+ Approach:</strong><br>The goal is to <strong>make the athlete their own expert</strong> (self-management, self-leadership)</p><p>We teach the meta-frameworks:</p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Here's how development works (stages)</li><li>Here's how your mind creates biases (Identity Compass)</li><li>Here's how to work with multiple perspectives (1st/2nd/3rd/4th person)</li><li>Here's how to recognise and integrate shadow</li><li>Here's how to access different states</li><li>Here's how all four quadrants influence your performance</li></ul><p><strong>The Integral+ Advantage:</strong><br>After working with HeadCoach, athletes can:</p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>Self-diagnose</strong> where they're stuck</li><li><strong>Self-prescribe</strong> appropriate interventions</li><li><strong>Self-correct</strong> when strategies aren't working</li><li><strong>Self-evolve</strong> through increasingly complex challenges</li></ul><p><strong>We don't create dependency, we create autonomy at a higher level of complexity.</strong></p><p>This is why your Fiji Rugby team won Olympic gold. <strong>They didn't need you there, you'd built internal capacity.</strong></p>",
+            "text_color": "#4A5568",
+            "align": "left",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9059",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9060",
+          "settings": {
+            "title": "+",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9061",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#2A7D7D",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9062",
+          "settings": {
+            "title": "Transcend and Include: A Visual Comparison",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#FFFFFF",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "ia9063",
+          "settings": {
+            "editor": "<h3 style=\"color: white; margin-top: 30px; margin-bottom: 20px;\">What Vealey's Framework Includes (That We Also Include):</h3><ul style=\"margin-left: 20px; margin-bottom: 30px; color: rgba(255,255,255,0.95);\"><li>\u2705 Comprehensive mental skills across multiple categories</li><li>\u2705 Mental health and wellbeing as core outcomes</li><li>\u2705 Both hard skills (focus, confidence) and soft skills (self-compassion, acceptance)</li><li>\u2705 Individual AND team-level interventions</li><li>\u2705 Recognition that consultant philosophy matters</li><li>\u2705 Awareness of sociocultural context</li><li>\u2705 Integration of mindfulness and acceptance-based approaches</li><li>\u2705 Personal development alongside performance</li></ul><p style=\"color: rgba(255,255,255,0.95); margin-bottom: 10px;\"><strong>This is all excellent. We don't abandon any of it.</strong></p><h3 style=\"color: white; margin-top: 40px; margin-bottom: 20px;\">What Integral+ ADDS (Transcendence):</h3><ul style=\"margin-left: 20px; color: rgba(255,255,255,0.95);\"><li>\u2795 <strong>Developmental stages</strong> - Meeting athletes where they are, not where we want them to be</li><li>\u2795 <strong>Lines of development</strong> - Independent growth trajectories across cognitive, emotional, moral, interpersonal domains</li><li>\u2795 <strong>Quadrant awareness</strong> - Simultaneous intervention across interior/exterior and individual/collective</li><li>\u2795 <strong>Identity Compass</strong> - Systematic assessment and leveraging of cognitive biases</li><li>\u2795 <strong>State work</strong> - Training across waking, dreaming, witness, and flow states</li><li>\u2795 <strong>Shadow integration</strong> - Systematic reclamation of disowned capacities</li><li>\u2795 <strong>Perspective flexibility</strong> - Explicit training in 1st/2nd/3rd person views</li><li>\u2795 <strong>Epistemological sophistication</strong> - Recognising different ways of knowing truth</li><li>\u2795 <strong>Self-authorship development</strong> - Athletes becoming their own experts</li><li>\u2795 <strong>Vertical development</strong> - Not just skill building, but consciousness evolution</li></ul>",
+            "text_color": "rgba(255,255,255,0.95)",
+            "align": "left",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9064",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9065",
+          "settings": {
+            "title": "+",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9066",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9067",
           "settings": {
             "title": "Why This Matters: Performance Outcomes",
             "header_size": "h2",
@@ -1886,58 +1618,11 @@
           "elType": "widget"
         },
         {
-          "id": "ia5075",
+          "id": "ia9068",
           "settings": {
-            "editor": "<p><strong>The Integral+ Advantage:</strong> We can work at any level with any athlete in any context.</p>",
+            "editor": "<h3 style=\"color: #2A7D7D; margin-top: 30px; margin-bottom: 20px;\">When Traditional Approaches Work:</h3><ul style=\"margin-left: 20px; margin-bottom: 30px;\"><li>Athlete is Orange/Green stage with good self-awareness</li><li>Challenge is technical/tactical, not developmental</li><li>Athlete has internal authority and just needs skills</li><li>Environment is supportive and psychologically safe</li><li>Pressure is manageable and athlete has good coping</li></ul><p><strong>In these conditions, Vealey's framework is excellent.</strong></p><h3 style=\"color: #2A7D7D; margin-top: 40px; margin-bottom: 20px;\">When Traditional Approaches Fail:</h3><ul style=\"margin-left: 20px; margin-bottom: 30px;\"><li>Athlete is at Red/Amber stage and can't access rational self-reflection</li><li>Challenge is identity-based, not skill-based</li><li>Athlete has high external reference and no internal authority</li><li>Environment is toxic or systemically undermining</li><li>Pressure triggers deep shadow material or developmental regression</li></ul><p><strong>In these conditions, only developmental, integral approaches work.</strong></p><h3 style=\"color: #2A7D7D; margin-top: 40px; margin-bottom: 20px;\">The Integral+ Advantage:</h3><p><strong>We can work at ANY level with ANY athlete in ANY context.</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Red-stage athlete in toxic environment? <strong>We can work there.</strong></li><li>Teal-stage athlete seeking existential meaning? <strong>We can work there.</strong></li><li>Orange-stage athlete needing tactical confidence? <strong>We can work there.</strong></li><li>Team culture destroying individual wellbeing? <strong>We can work there.</strong></li></ul><p style=\"margin-top: 30px;\"><strong>This is why HeadCoach has 20+ years of consistent results across:</strong></p><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li>Youth athletes to Olympic champions</li><li>Individual sports to team sports</li><li>Corporate executives to military personnel</li><li>Injury rehabilitation to peak performance</li></ul><p><strong>We meet the client where they are and work with what's actually present, not what we wish was present.</strong></p>",
             "text_color": "#4A5568",
-            "align": "center",
-            "_margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "40",
-              "left": "0",
-              "isLinked": false
-            },
-            "_element_width": "initial",
-            "_element_custom_width": {
-              "unit": "%",
-              "size": 80,
-              "sizes": []
-            },
-            "_flex_align_self": "center"
-          },
-          "elements": [],
-          "isInner": false,
-          "widgetType": "text-editor",
-          "elType": "widget"
-        },
-        {
-          "id": "ia5076",
-          "settings": {
-            "editor": "<div style=\"max-width: 800px; margin: 0 auto; text-align: left;\">\n<p>\u2022 Red-stage athlete in toxic environment? We can work there.</p>\n<p>\u2022 Teal-stage athlete seeking existential meaning? We can work there.</p>\n<p>\u2022 Orange-stage athlete needing tactical confidence? We can work there.</p>\n<p>\u2022 Team culture destroying individual wellbeing? We can work there.</p>\n</div>",
-            "text_color": "#4A5568",
-            "align": "center",
-            "_margin": {
-              "unit": "px",
-              "top": "0",
-              "right": "0",
-              "bottom": "30",
-              "left": "0",
-              "isLinked": false
-            }
-          },
-          "elements": [],
-          "isInner": false,
-          "widgetType": "text-editor",
-          "elType": "widget"
-        },
-        {
-          "id": "ia5077",
-          "settings": {
-            "editor": "<p><strong>This is why HeadCoach has 20+ years of consistent results across:</strong> Youth athletes to Olympic champions, individual sports to team sports, corporate executives to military personnel, injury rehabilitation to peak performance.</p><p>We meet the client where they are and work with what's actually present, not what we wish was present.</p>",
-            "text_color": "#4A5568",
-            "align": "center",
+            "align": "left",
             "_margin": {
               "unit": "px",
               "top": "0",
@@ -1949,7 +1634,7 @@
             "_element_width": "initial",
             "_element_custom_width": {
               "unit": "%",
-              "size": 85,
+              "size": 90,
               "sizes": []
             },
             "_flex_align_self": "center"
@@ -1964,7 +1649,7 @@
       "elType": "container"
     },
     {
-      "id": "ia5078",
+      "id": "ia9069",
       "settings": {
         "padding": {
           "unit": "px",
@@ -1978,7 +1663,7 @@
       },
       "elements": [
         {
-          "id": "ia5079",
+          "id": "ia9070",
           "settings": {
             "title": "+",
             "header_size": "h2",
@@ -2003,7 +1688,128 @@
       "elType": "container"
     },
     {
-      "id": "ia5080",
+      "id": "ia9071",
+      "settings": {
+        "boxed_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F8F9FA",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9072",
+          "settings": {
+            "title": "Academic Rigor: Why Integral+ Is Evidence-Based",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "30",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "ia9073",
+          "settings": {
+            "editor": "<h3 style=\"color: #2A7D7D; margin-top: 30px; margin-bottom: 20px;\">Vealey's Framework Rests On:</h3><ul style=\"margin-left: 20px; margin-bottom: 30px;\"><li>40+ years of sport psychology research</li><li>Meta-analyses showing mental training improves performance</li><li>Intervention studies demonstrating technique efficacy</li><li>Clinical case studies across populations</li></ul><p><strong>This research base is solid and we honour it.</strong></p><h3 style=\"color: #2A7D7D; margin-top: 40px; margin-bottom: 20px;\">Integral+ ADDS Research From:</h3><ul style=\"margin-left: 20px; margin-bottom: 20px;\"><li><strong>Developmental psychology</strong> (Kegan, Cook-Greuter, Loevinger, Kohlberg, Gilligan)</li><li><strong>Integral theory</strong> (Wilber, Esbj\u00f6rn-Hargens, Hamilton)</li><li><strong>Adult development</strong> (Torbert, Rooke, stage transitions)</li><li><strong>Cognitive science</strong> (NLP, cognitive biases, predictive processing)</li><li><strong>Depth psychology</strong> (Jung, shadow work, projection)</li><li><strong>Phenomenology</strong> (state training, consciousness research)</li><li><strong>Systems theory</strong> (Meadows, Senge, organisational development)</li><li><strong>Neuroscience</strong> (polyvagal theory, embodied cognition, neuroplasticity)</li></ul><p><strong>Our model is built on a MORE comprehensive research base, not less.</strong></p><p>The difference is we're pulling from Level 2 sciences (developmental psychology, integral theory, systems theory) not just Level 1 sciences (sport psychology intervention studies).</p>",
+            "text_color": "#4A5568",
+            "align": "left",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 90,
+              "sizes": []
+            },
+            "_flex_align_self": "center"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9074",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ia9075",
+          "settings": {
+            "title": "+",
+            "header_size": "h2",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "ia9076",
       "settings": {
         "boxed_width": {
           "unit": "px",
@@ -2025,9 +1831,9 @@
       },
       "elements": [
         {
-          "id": "ia5081",
+          "id": "ia9077",
           "settings": {
-            "title": "Both/And, Not Either/Or",
+            "title": "Conclusion: Both/And, Not Either/Or",
             "header_size": "h2",
             "align": "center",
             "typography_typography": "custom",
@@ -2054,11 +1860,11 @@
           "elType": "widget"
         },
         {
-          "id": "ia5082",
+          "id": "ia9078",
           "settings": {
-            "editor": "<p>HeadCoach's Integral+ approach is not AGAINST traditional sport psychology. We don't reject established frameworks\u2014we transcend and include them.</p><p><strong>This is the future of mental performance consulting.</strong> Not because it's trendy or complicated, but because it works at a deeper level with more athletes in more contexts with more lasting results.</p>",
+            "editor": "<p style=\"color: rgba(255,255,255,0.95);\"><strong>HeadCoach's Integral+ approach is not AGAINST traditional sport psychology.</strong></p><p style=\"color: rgba(255,255,255,0.95); margin-top: 20px;\">We don't reject Vealey's framework, we transcend and include it.</p><p style=\"color: rgba(255,255,255,0.95); margin-top: 20px;\">Everything valuable in her model\u2014mental skills, mental health, consultant effectiveness, technique selection, outcome focus\u2014is fully present in our work.</p><p style=\"color: rgba(255,255,255,0.95); margin-top: 30px;\"><strong>But we add:</strong></p><ul style=\"margin-left: 20px; margin-bottom: 30px; color: rgba(255,255,255,0.95);\"><li><strong>Developmental sophistication</strong> that meets athletes where they are</li><li><strong>Integral mapping</strong> across quadrants, stages, lines, states, and types</li><li><strong>Identity architecture</strong> that rewires unconscious cognitive biases</li><li><strong>Shadow integration</strong> that reclaims disowned capacities</li><li><strong>Vertical development</strong> that evolves consciousness, not just skills</li><li><strong>Self-authorship</strong> that creates autonomous, expert athletes</li></ul><p style=\"color: rgba(255,255,255,0.95); margin-top: 30px; font-size: 18px;\"><strong>This is the future of mental performance consulting.</strong></p><p style=\"color: rgba(255,255,255,0.95); margin-top: 20px;\">Not because it's trendy or complicated, but because <strong>it works at a deeper level with more athletes in more contexts with more lasting results.</strong></p>",
             "text_color": "rgba(255,255,255,0.95)",
-            "align": "center",
+            "align": "left",
             "_margin": {
               "unit": "px",
               "top": "0",
@@ -2081,7 +1887,7 @@
           "elType": "widget"
         },
         {
-          "id": "ia5083",
+          "id": "ia9079",
           "settings": {
             "text": "Contact us today",
             "link": {
