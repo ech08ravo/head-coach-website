@@ -3544,7 +3544,9 @@
       "elType": "container"
     }
   ],
-  "page_settings": [],
+  "page_settings": {
+    "scroll_snap": "yes"
+  },
   "version": "0.4",
   "title": "MSF 2026",
   "type": "page"
