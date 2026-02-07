@@ -1,1 +1,3725 @@
-{"content":[{"id":"1d3ae952","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"min_height":{"unit":"vh","size":60,"sizes":[]},"flex_justify_content":"center","flex_align_items":"center","background_background":"classic","background_color":"#1A3A5C","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false}},"elements":[{"id":"7d490354","settings":{"title":"HeadCoach Mental Skills Framework","header_size":"h1","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":56,"sizes":[]},"typography_font_weight":"300","title_color":"#FFFFFF","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"581ad283","settings":{"title":"High-Performance Sports Model","align":"center","typography_typography":"custom","typography_font_family":"Source Sans Pro","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"400","title_color":"#FFFFFF","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"ff8b6c6","settings":{"editor":"<p style=\"text-align:center;\">Mental Strength \u2022 Mental Conditioning \u2022 Technical Skills \u2022 Tactical Skills \u2022 Strategic Skills<\/p>","text_color":"#F4845F","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"509d747c","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"763e9033","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"4ffbd9f2","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"fb87b8","settings":{"title":"Building Mental Strength Like Physical Strength","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"400","title_color":"#1A3A5C","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"7983cee2","settings":{"editor":"<p style=\"text-align:center;\">Just as we train our bodies for rugby, we must train our minds. This framework mirrors physical performance development with five key areas that work together to create mental toughness and sustained excellence.<\/p>","text_color":"#4A5568","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"%","size":80,"sizes":[]}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"1686645b","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":20,"sizes":[],"column":"20","row":"20","isLinked":true},"flex_justify_content":"center"},"elements":[{"id":"18ea97c2","settings":{"content_width":"full","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"1ab318e3","settings":{"title":"Mental Foundation","header_size":"h4","title_color":"#D4A84B","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"1e64dbe8","settings":{"editor":"<p>Build resilience through structured mental training<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"75bb0ee2","settings":{"content_width":"full","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"7ef6abd3","settings":{"title":"Sustainable Performance","header_size":"h4","title_color":"#D4A84B","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"125403d2","settings":{"editor":"<p>Develop endurance for consistent high-level play<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"7d228fe8","settings":{"content_width":"full","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"27eb783e","settings":{"title":"Smart Execution","header_size":"h4","title_color":"#D4A84B","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"49030058","settings":{"editor":"<p>Apply mental skills with precision and purpose<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"}],"isInner":false,"elType":"container"},{"id":"4c31c880","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"d453217","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"35d7ccc3","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false}},"elements":[{"id":"5c8f3e7f","settings":{"title":"Mental Strength: Your Foundation","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"400","title_color":"#1A3A5C"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"447ed83f","settings":{"editor":"<p style=\"text-align:center;\">Mental toughness is like physical strength - it must be built systematically. This foundation helps you stay composed under pressure and bounce back from setbacks quickly.<\/p>","text_color":"#4A5568","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"51d8fb79","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":30,"sizes":[],"column":"30","row":"30","isLinked":true},"flex_justify_content":"center"},"elements":[{"id":"64a1aa04","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"6e0f2901","settings":{"title":"01","header_size":"h3","title_color":"#2A7D7D","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"753287d8","settings":{"title":"Manage Your State","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"3546ade2","settings":{"editor":"<p>Stay composed and confident when pressure builds. Learn to recover quickly from mistakes or tough moments.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"3f360aa1","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"49118211","settings":{"title":"02","header_size":"h3","title_color":"#2A7D7D","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"a20b793","settings":{"title":"Focus on What You Control","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"1afff7ce","settings":{"editor":"<p>Use the <strong>Control\/Influence\/Accept\/Let Go<\/strong> model. Put energy only where you can make a difference.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"22161233","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"27f81fe9","settings":{"title":"03","header_size":"h3","title_color":"#2A7D7D","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"6997fdf7","settings":{"title":"Build Mental Tools","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"27a03825","settings":{"editor":"<p>Practice mental movies, positive self-talk, and personal rituals that bring you back to the present moment.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"}],"isInner":false,"elType":"container"},{"id":"48c7d4fa","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"1a587a74","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"6a00e14f","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"row","flex_gap":{"unit":"px","size":60,"sizes":[],"column":"60","row":"60","isLinked":true},"background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false}},"elements":[{"id":"4ffc191c","settings":{"content_width":"full","flex_direction":"column"},"elements":[{"id":"40a9fef9","settings":{"title":"Mental Strength Must Haves","header_size":"h3","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"5fe53960","settings":{"editor":"<ul style=\"color:#4A5568;\"><li style=\"margin-bottom:12px;\">Step into discomfort intentionally, then recover with purpose<\/li><li style=\"margin-bottom:12px;\">Practice mental movies and reframing techniques daily<\/li><li style=\"margin-bottom:12px;\">Control\/Influence\/Accept\/Let go model<\/li><li>Develop personal rituals for pressure moments - such as cue words or ritual actions<\/li><\/ul>","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"69125bcc","settings":{"content_width":"full","background_background":"classic","background_color":"#2A7D7D","padding":{"unit":"px","top":"20","right":"25","bottom":"20","left":"25","isLinked":false},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"303f7f0d","settings":{"editor":"<p><strong>Key Principle:<\/strong> Mental strength grows through intentional challenge and recovery, just like physical strength.<\/p>","text_color":"#FFFFFF"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"4a1ae3fc","settings":{"content_width":"full","flex_direction":"column","flex_align_items":"center","flex_justify_content":"center"},"elements":[{"id":"1f6cff56","settings":{"title":"Control \u2022 Influence \u2022 Accept","header_size":"h4","align":"center","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"2ae750c5","settings":{"editor":"<p style=\"text-align:center;color:#4A5568;font-style:italic;\">[Add concentric circles diagram image here showing Control at center, Influence in middle ring, Accept in outer ring]<\/p>"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":false,"elType":"container"},{"id":"873bc19","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"20b4095","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"5978211c","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false}},"elements":[{"id":"407db26d","settings":{"title":"Mental Conditioning: Building Endurance","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"400","title_color":"#1A3A5C"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"108f2997","settings":{"editor":"<p style=\"text-align:center;\">Mental conditioning is about sustaining high performance over time. Like physical fitness, it requires consistent training and smart recovery strategies.<\/p>","text_color":"#4A5568","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"463258e0","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":30,"sizes":[],"column":"30","row":"30","isLinked":true},"flex_justify_content":"center"},"elements":[{"id":"361dbc09","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"4","isLinked":false},"border_color":"#F4845F"},"elements":[{"id":"6e42be56","settings":{"title":"Mental Endurance","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"7a1a32b4","settings":{"editor":"<p>Build focus through visualization, mindfulness, and body awareness training.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"5257e304","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"4","isLinked":false},"border_color":"#F4845F"},"elements":[{"id":"188d2c01","settings":{"title":"Process Focus","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"65d88215","settings":{"editor":"<p>Anchor on process over outcome. Bring the horizon forward to now.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"17982503","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"4","isLinked":false},"border_color":"#F4845F"},"elements":[{"id":"70eaca8a","settings":{"title":"Growth Mindset","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"38987f0f","settings":{"editor":"<p>Reframe failure as learning. Each mistake becomes fuel for improvement.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"}],"isInner":false,"elType":"container"},{"id":"2a0e6ade","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"2eecf83d","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"378e0c1b","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false}},"elements":[{"id":"232b4f81","settings":{"title":"The 1% Club: Daily Mental Habits","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"400","title_color":"#1A3A5C"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"391987b2","settings":{"editor":"<p style=\"text-align:center;\">Small, consistent improvements compound into major performance gains. Join the 1% club by committing to daily mental training habits.<\/p>","text_color":"#4A5568","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"77d2a03a","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":30,"sizes":[],"column":"30","row":"30","isLinked":true},"flex_justify_content":"center"},"elements":[{"id":"261311a","settings":{"content_width":"full","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"1f3f085f","settings":{"title":"Daily Mindfulness","header_size":"h4","align":"center","title_color":"#D4A84B","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"2631ba3f","settings":{"editor":"<p style=\"text-align:center;\">5-10 minutes of focused breathing or body check-ins to build mental endurance and awareness.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"4d03a37d","settings":{"content_width":"full","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"67a6a379","settings":{"title":"Mental Movies","header_size":"h4","align":"center","title_color":"#D4A84B","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"14a27d38","settings":{"editor":"<p style=\"text-align:center;\">Visualise plays and performances, engaging both body and brain in the process, by adding in overcoming adversity.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"7805a531","settings":{"content_width":"full","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"7711c36a","settings":{"title":"Reflection Practice","header_size":"h4","align":"center","title_color":"#D4A84B","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"76908ed0","settings":{"editor":"<p style=\"text-align:center;\">Journal about lessons learned, growth opportunities, and mental performance insights.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"10e985de","settings":{"content_width":"full","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"4","isLinked":false},"border_color":"#2A7D7D","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"_margin":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false},"flex_align_items":"center","_element_width":"initial","_element_custom_width":{"unit":"px","size":700,"sizes":[]},"_flex_align_self":"center"},"elements":[{"id":"3115267d","settings":{"editor":"<p style=\"font-style:italic;\">\"Condition mindset like fitness: embed consistency and intentionality in all sessions.\"<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":false,"elType":"container"},{"id":"7964a8d0","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"57e503a8","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"5972a2ca","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false}},"elements":[{"id":"48649a29","settings":{"title":"Technical Mental Skills: Precision Tools","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"400","title_color":"#1A3A5C"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"13be0b8c","settings":{"editor":"<p style=\"text-align:center;\">These are your precision mental tools - specific techniques you can use in training and games to manage thoughts, emotions, and performance states.<\/p>","text_color":"#4A5568","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"2b1a7a8e","settings":{"content_width":"full","flex_direction":"column","flex_gap":{"unit":"px","size":20,"sizes":[],"column":"20","row":"20","isLinked":true},"_element_width":"initial","_element_custom_width":{"unit":"px","size":800,"sizes":[]},"_flex_align_self":"center","margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"183d78a4","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":25,"sizes":[],"column":"25","row":"25","isLinked":true},"background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"25","right":"30","bottom":"25","left":"30","isLinked":false},"border_radius":{"unit":"px","size":8},"flex_align_items":"center"},"elements":[{"id":"7472484b","settings":{"title":"1","header_size":"h3","title_color":"#2A7D7D","typography_typography":"custom","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"700"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"5520dc64","settings":{"content_width":"full","flex_direction":"column"},"elements":[{"id":"2abed7f7","settings":{"title":"Mental Routines","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"e77a4a6","settings":{"editor":"<p>Build pre-play rituals, visual anchors, and ways to reframe pressure into power and opportunity.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"616f5b64","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":25,"sizes":[],"column":"25","row":"25","isLinked":true},"background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"25","right":"30","bottom":"25","left":"30","isLinked":false},"border_radius":{"unit":"px","size":8},"flex_align_items":"center"},"elements":[{"id":"3c52d0b3","settings":{"title":"2","header_size":"h3","title_color":"#2A7D7D","typography_typography":"custom","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"700"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"47cd2e6c","settings":{"content_width":"full","flex_direction":"column"},"elements":[{"id":"27cef462","settings":{"title":"State Management","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"513ac9d2","settings":{"editor":"<p>Use swish patterns to interrupt unhelpful states and replace them with high-performance responses.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"11b623ed","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":25,"sizes":[],"column":"25","row":"25","isLinked":true},"background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"25","right":"30","bottom":"25","left":"30","isLinked":false},"border_radius":{"unit":"px","size":8},"flex_align_items":"center"},"elements":[{"id":"33087d23","settings":{"title":"3","header_size":"h3","title_color":"#2A7D7D","typography_typography":"custom","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"700"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"2eb66b94","settings":{"content_width":"full","flex_direction":"column"},"elements":[{"id":"67661dff","settings":{"title":"Mind Movies","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"635d73d2","settings":{"editor":"<p>Learn to change the \"movies in your mind\" - adjust how you see situations to change your performance.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"6b3a3872","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":25,"sizes":[],"column":"25","row":"25","isLinked":true},"background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"25","right":"30","bottom":"25","left":"30","isLinked":false},"border_radius":{"unit":"px","size":8},"flex_align_items":"center"},"elements":[{"id":"268bce65","settings":{"title":"4","header_size":"h3","title_color":"#2A7D7D","typography_typography":"custom","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"700"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"2507066c","settings":{"content_width":"full","flex_direction":"column"},"elements":[{"id":"521e5cbc","settings":{"title":"Communication Model","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"10144c72","settings":{"editor":"<p>Understand how thoughts create feelings, which drive actions and ultimately determine results.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"}],"isInner":false,"elType":"container"},{"id":"5df38584","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"2d70fcdc","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"68bb4d51","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false}},"elements":[{"id":"51535d26","settings":{"title":"Tactical Mental Skills: Smart Game Thinking","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"400","title_color":"#1A3A5C"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"67607152","settings":{"editor":"<p style=\"text-align:center;\">Mental tactics help you think smarter during games. These skills improve decision-making under pressure and expand your awareness on the field.<\/p>","text_color":"#4A5568","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"2ab08d0c","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":30,"sizes":[],"column":"30","row":"30","isLinked":true},"flex_justify_content":"center"},"elements":[{"id":"533c422f","settings":{"content_width":"full","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"4","isLinked":false},"border_color":"#D4A84B"},"elements":[{"id":"5b5ff9db","settings":{"title":"Peripheral Expansion","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"166e5da8","settings":{"editor":"<p>Widen your awareness like a playmaker. See more of the field and more opportunities.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"32b45e1","settings":{"content_width":"full","background_background":"classic","background_color":"#F4845F","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"795fc587","settings":{"title":"Perspective Shifting","header_size":"h4","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"1ae32c0f","settings":{"editor":"<p>View situations from different perspectives to open up more choices and better decisions.<\/p>","text_color":"#FFFFFF"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"76f5bf96","settings":{"content_width":"full","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"border_radius":{"unit":"px","size":8},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"4","isLinked":false},"border_color":"#D4A84B"},"elements":[{"id":"782b1e6e","settings":{"title":"Decision Processes","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"2b87b2d","settings":{"editor":"<p>Build simple decision-making models. Understand decisions as processes, not just reactions.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"}],"isInner":false,"elType":"container"},{"id":"f6b482c","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"6b99bdd3","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"5970809","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#F8F9FA","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false}},"elements":[{"id":"11c1bc69","settings":{"title":"Strategic Mental Framework: Long-Term Success","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"400","title_color":"#1A3A5C"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"7da9c107","settings":{"editor":"<p style=\"text-align:center;\">Mental strategy connects your daily actions with long-term goals. It's about building sustainable excellence and leadership both on and off the field.<\/p>","text_color":"#4A5568","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"386a013a","settings":{"content_width":"full","flex_direction":"column","flex_gap":{"unit":"px","size":25,"sizes":[],"column":"25","row":"25","isLinked":true},"_element_width":"initial","_element_custom_width":{"unit":"px","size":700,"sizes":[]},"_flex_align_self":"center","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3b3ad1c8","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":20,"sizes":[],"column":"20","row":"20","isLinked":true},"flex_align_items":"flex-start"},"elements":[{"id":"5d8ff62b","settings":{"title":"1","header_size":"h3","title_color":"#E9ECEF","typography_typography":"custom","typography_font_size":{"unit":"px","size":56,"sizes":[]},"typography_font_weight":"700"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"34868c8","settings":{"content_width":"full","flex_direction":"column"},"elements":[{"id":"396b7f66","settings":{"title":"Mental Blueprint","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"8","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"65b58790","settings":{"editor":"<p>Align daily habits with long-term vision using well-formed goals and the POWER model.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"1006c83d","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":20,"sizes":[],"column":"20","row":"20","isLinked":true},"flex_align_items":"flex-start"},"elements":[{"id":"8a027c0","settings":{"title":"2","header_size":"h3","title_color":"#E9ECEF","typography_typography":"custom","typography_font_size":{"unit":"px","size":56,"sizes":[]},"typography_font_weight":"700"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"4acb4e41","settings":{"content_width":"full","flex_direction":"column"},"elements":[{"id":"642fbfe6","settings":{"title":"Motivation Mastery","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"8","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"6cbfc55f","settings":{"editor":"<p>Understand your motivation patterns (towards\/away from) and use them consciously.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"17fcc225","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":20,"sizes":[],"column":"20","row":"20","isLinked":true},"flex_align_items":"flex-start"},"elements":[{"id":"6618ff2e","settings":{"title":"3","header_size":"h3","title_color":"#E9ECEF","typography_typography":"custom","typography_font_size":{"unit":"px","size":56,"sizes":[]},"typography_font_weight":"700"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"6c56c601","settings":{"content_width":"full","flex_direction":"column"},"elements":[{"id":"2ae8fb1f","settings":{"title":"Self-Leadership","header_size":"h4","title_color":"#1A3A5C","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"8","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"433bde8b","settings":{"editor":"<p>Develop leadership skills: giving feedback, resolving conflicts, and having performance conversations.<\/p>","text_color":"#4A5568"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"7e6e6650","settings":{"editor":"<h3 style=\"font-style: italic; text-align: center;\">This strategic approach helps create mental structures that sustain excellence under pressure, moving beyond fear and hope into enacted courage.<\/h3>","text_color":"#4A5568","_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"6bb01ecf","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"4929894b","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"649757c8","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#2A7D7D","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"4d1d2201","settings":{"title":"Courage in Action","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":56,"sizes":[]},"typography_font_weight":"400","title_color":"#FFFFFF"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"1e165332","settings":{"editor":"<p style=\"text-align:center;\">Performance isn't just about physical execution - it's about creating mental structures that sustain excellence under pressure.<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"1cff0e44","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"unit":"px","size":20,"sizes":[],"column":"20","row":"20","isLinked":true},"flex_justify_content":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"7e8a589c","settings":{"content_width":"full","background_background":"classic","background_color":"rgba(255,255,255,0.15)","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"41dd8d05","settings":{"title":"Focus on Now","header_size":"h4","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"4ea3adf0","settings":{"editor":"<p>Ground yourself in what you can do in this moment<\/p>","text_color":"rgba(255,255,255,0.85)"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"63ab87b7","settings":{"content_width":"full","background_background":"classic","background_color":"rgba(255,255,255,0.15)","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"6722ac1d","settings":{"title":"Train Daily","header_size":"h4","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"460ee344","settings":{"editor":"<p>Build mental fitness through consistent practice<\/p>","text_color":"rgba(255,255,255,0.85)"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"},{"id":"62ded201","settings":{"content_width":"full","background_background":"classic","background_color":"rgba(255,255,255,0.15)","padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"border_radius":{"unit":"px","size":8}},"elements":[{"id":"4e659850","settings":{"title":"Lead Yourself","header_size":"h4","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"17aad985","settings":{"editor":"<p>Take ownership of your mental development journey<\/p>","text_color":"rgba(255,255,255,0.85)"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":true,"elType":"container"},{"id":"249df667","settings":{"content_width":"full","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"3","isLinked":false},"border_color":"rgba(255,255,255,0.5)","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"px","size":700,"sizes":[]},"_flex_align_self":"center"},"elements":[{"id":"45b87370","settings":{"editor":"<h3 style=\"font-style: italic;\">\"This framework keeps us out of fear and hope and grounds us in courage: the enacted presence to focus on what we can do now.\"<\/h3>","text_color":"#FFFFFF"},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":true,"elType":"container"}],"isInner":false,"elType":"container"},{"id":"3b534459","settings":{"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"2ccba262","settings":{"title":"+","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_weight":"300","title_color":"#D4A84B"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"container"},{"id":"300bf389","settings":{"boxed_width":{"unit":"px","size":1200,"sizes":[]},"flex_direction":"column","background_background":"classic","background_color":"#1A3A5C","padding":{"unit":"px","top":"100","right":"50","bottom":"100","left":"50","isLinked":false},"flex_align_items":"center"},"elements":[{"id":"7aeb3f2d","settings":{"title":"Ready to Build Your Mental Skills?","align":"center","typography_typography":"custom","typography_font_family":"Cormorant Garamond","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"400","title_color":"#FFFFFF"},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"3aaded89","settings":{"editor":"<p style=\"text-align:center;\">Start your journey to mental excellence with Head-Coach. Train your mind like you train your body.<\/p>","text_color":"rgba(255,255,255,0.8)","_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"},{"id":"31d6d43b","settings":{"text":"Contact us today","link":{"url":"https:\/\/calendly.com\/jay-hedley-thecoachingroom","is_external":"true","nofollow":"","custom_attributes":""},"align":"center","typography_typography":"custom","typography_font_family":"Source Sans Pro","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"600","button_text_color":"#1A3A5C","background_color":"#FFFFFF","border_radius":{"unit":"px","size":0},"text_padding":{"unit":"px","top":"16","right":"32","bottom":"16","left":"32","isLinked":false}},"elements":[],"isInner":false,"widgetType":"button","elType":"widget"},{"id":"462b64b4","settings":{"editor":"<h4 style=\"text-align: center;\">Speak to us: +61 414 369 363<\/h4>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"text-editor","elType":"widget"}],"isInner":false,"elType":"container"}],"page_settings":{"scroll_snap":"yes"},"version":"0.4","title":"Live Mental Skills Framework v1","type":"page"}
+{
+  "content": [
+    {
+      "id": "6c0dedb3",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "min_height": {
+          "unit": "vh",
+          "size": 60,
+          "sizes": []
+        },
+        "flex_justify_content": "center",
+        "flex_align_items": "center",
+        "background_background": "classic",
+        "background_color": "#1A3A5C",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "3b3998a2",
+          "settings": {
+            "title": "HeadCoach Mental Skills Framework",
+            "header_size": "h1",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 56,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#FFFFFF",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "20",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "6c2b6b5b",
+          "settings": {
+            "title": "High-Performance Sports Model",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans Pro",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 24,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#FFFFFF",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "20",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "6ba9dba1",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Mental Strength \u2022 Mental Conditioning \u2022 Technical Skills \u2022 Tactical Skills \u2022 Strategic Skills</p>",
+            "text_color": "#F4845F",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 18,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "b68a26f",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "4e9e97a0",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "2674a5e7",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center",
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "30002a5b",
+          "settings": {
+            "title": "Building Mental Strength Like Physical Strength",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "20",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "6e33af4c",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Just as we train our bodies for rugby, we must train our minds. This framework mirrors physical performance development with five key areas that work together to create mental toughness and sustained excellence.</p>",
+            "text_color": "#4A5568",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "50",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 80,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "4c55f250",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 20,
+              "sizes": [],
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "flex_justify_content": "center"
+          },
+          "elements": [
+            {
+              "id": "677e66fe",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F8F9FA",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "67816e43",
+                  "settings": {
+                    "title": "Mental Foundation",
+                    "header_size": "h4",
+                    "title_color": "#D4A84B",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "550ae999",
+                  "settings": {
+                    "editor": "<p>Build resilience through structured mental training</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "702e565c",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F8F9FA",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "ee9f02d",
+                  "settings": {
+                    "title": "Sustainable Performance",
+                    "header_size": "h4",
+                    "title_color": "#D4A84B",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "252033a8",
+                  "settings": {
+                    "editor": "<p>Develop endurance for consistent high-level play</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "158c6263",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F8F9FA",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "7f59fa0",
+                  "settings": {
+                    "title": "Smart Execution",
+                    "header_size": "h4",
+                    "title_color": "#D4A84B",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "2ed5cc9f",
+                  "settings": {
+                    "editor": "<p>Apply mental skills with precision and purpose</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "38864e74",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "4adb0bdc",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "5aae0fb8",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F8F9FA",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "1b543642",
+          "settings": {
+            "title": "Mental Strength: Your Foundation",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "6152f1cc",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Mental toughness is like physical strength - it must be built systematically. This foundation helps you stay composed under pressure and bounce back from setbacks quickly.</p>",
+            "text_color": "#4A5568",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "60",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "73a1e971",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 30,
+              "sizes": [],
+              "column": "30",
+              "row": "30",
+              "isLinked": true
+            },
+            "flex_justify_content": "center"
+          },
+          "elements": [
+            {
+              "id": "3a3aaaa2",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "40a3641",
+                  "settings": {
+                    "title": "01",
+                    "header_size": "h3",
+                    "title_color": "#2A7D7D",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 36,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "300",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "a63ec03",
+                  "settings": {
+                    "title": "Manage Your State",
+                    "header_size": "h4",
+                    "title_color": "#1A3A5C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "660c4f6b",
+                  "settings": {
+                    "editor": "<p>Stay composed and confident when pressure builds. Learn to recover quickly from mistakes or tough moments.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "3aab686a",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "2052cb64",
+                  "settings": {
+                    "title": "02",
+                    "header_size": "h3",
+                    "title_color": "#2A7D7D",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 36,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "300",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "3498b3c1",
+                  "settings": {
+                    "title": "Focus on What You Control",
+                    "header_size": "h4",
+                    "title_color": "#1A3A5C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "f141999",
+                  "settings": {
+                    "editor": "<p>Use the <strong>Control/Influence/Accept/Let Go</strong> model. Put energy only where you can make a difference.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "41a61aae",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "512f1b30",
+                  "settings": {
+                    "title": "03",
+                    "header_size": "h3",
+                    "title_color": "#2A7D7D",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 36,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "300",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "78e043fb",
+                  "settings": {
+                    "title": "Build Mental Tools",
+                    "header_size": "h4",
+                    "title_color": "#1A3A5C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "4e8d0c3b",
+                  "settings": {
+                    "editor": "<p>Practice mental movies, positive self-talk, and personal rituals that bring you back to the present moment.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "7a2e30a9",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "ea6ca09",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "64521a64",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "row",
+        "flex_gap": {
+          "unit": "px",
+          "size": 60,
+          "sizes": [],
+          "column": "60",
+          "row": "60",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "424f90cd",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column"
+          },
+          "elements": [
+            {
+              "id": "c1abeb0",
+              "settings": {
+                "title": "Mental Strength Must Haves",
+                "header_size": "h3",
+                "title_color": "#1A3A5C",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "25",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "4db3f048",
+              "settings": {
+                "editor": "<ul style=\"color:#4A5568;\"><li style=\"margin-bottom:12px;\">Step into discomfort intentionally, then recover with purpose</li><li style=\"margin-bottom:12px;\">Practice mental movies and reframing techniques daily</li><li style=\"margin-bottom:12px;\">Control/Influence/Accept/Let go model</li><li>Develop personal rituals for pressure moments - such as cue words or ritual actions</li></ul>",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "30",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "70a13073",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#2A7D7D",
+                "padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "25",
+                  "bottom": "20",
+                  "left": "25",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "5fe857ba",
+                  "settings": {
+                    "editor": "<p><strong>Key Principle:</strong> Mental strength grows through intentional challenge and recovery, just like physical strength.</p>",
+                    "text_color": "#FFFFFF"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "1693531b",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_align_items": "center",
+            "flex_justify_content": "center"
+          },
+          "elements": [
+            {
+              "id": "7396f858",
+              "settings": {
+                "title": "Control \u2022 Influence \u2022 Accept",
+                "header_size": "h4",
+                "align": "center",
+                "title_color": "#1A3A5C",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "20",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "74865e07",
+              "settings": {
+                "editor": "<p style=\"text-align:center;color:#4A5568;font-style:italic;\">[Add concentric circles diagram image here showing Control at center, Influence in middle ring, Accept in outer ring]</p>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "3f7af56f",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "7219fa81",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "5b40e8ec",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F8F9FA",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "31692c01",
+          "settings": {
+            "title": "Mental Conditioning: Building Endurance",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "3d07b28d",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Mental conditioning is about sustaining high performance over time. Like physical fitness, it requires consistent training and smart recovery strategies.</p>",
+            "text_color": "#4A5568",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "60",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "5ad0ff09",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 30,
+              "sizes": [],
+              "column": "30",
+              "row": "30",
+              "isLinked": true
+            },
+            "flex_justify_content": "center"
+          },
+          "elements": [
+            {
+              "id": "79cd36c7",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "4",
+                  "isLinked": false
+                },
+                "border_color": "#F4845F"
+              },
+              "elements": [
+                {
+                  "id": "7f2c00df",
+                  "settings": {
+                    "title": "Mental Endurance",
+                    "header_size": "h4",
+                    "title_color": "#1A3A5C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "192837a3",
+                  "settings": {
+                    "editor": "<p>Build focus through visualization, mindfulness, and body awareness training.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "7e7246d2",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "4",
+                  "isLinked": false
+                },
+                "border_color": "#F4845F"
+              },
+              "elements": [
+                {
+                  "id": "50fbbf75",
+                  "settings": {
+                    "title": "Process Focus",
+                    "header_size": "h4",
+                    "title_color": "#1A3A5C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "5e9dccbf",
+                  "settings": {
+                    "editor": "<p>Anchor on process over outcome. Bring the horizon forward to now.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "3e3fcfc",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "4",
+                  "isLinked": false
+                },
+                "border_color": "#F4845F"
+              },
+              "elements": [
+                {
+                  "id": "3d4f9f0c",
+                  "settings": {
+                    "title": "Growth Mindset",
+                    "header_size": "h4",
+                    "title_color": "#1A3A5C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "56c6bba1",
+                  "settings": {
+                    "editor": "<p>Reframe failure as learning. Each mistake becomes fuel for improvement.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "5068a5e7",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "6fef93d2",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "d14d1fe",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "2d11395",
+          "settings": {
+            "title": "The 1% Club: Daily Mental Habits",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "abae8a5",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Small, consistent improvements compound into major performance gains. Join the 1% club by committing to daily mental training habits.</p>",
+            "text_color": "#4A5568",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "60",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "68e9c590",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 30,
+              "sizes": [],
+              "column": "30",
+              "row": "30",
+              "isLinked": true
+            },
+            "flex_justify_content": "center"
+          },
+          "elements": [
+            {
+              "id": "4f05333",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F8F9FA",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "d3857cd",
+                  "settings": {
+                    "title": "Daily Mindfulness",
+                    "header_size": "h4",
+                    "align": "center",
+                    "title_color": "#D4A84B",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "15",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "722e69d",
+                  "settings": {
+                    "editor": "<p style=\"text-align:center;\">5-10 minutes of focused breathing or body check-ins to build mental endurance and awareness.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "12edff4d",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F8F9FA",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "444402fa",
+                  "settings": {
+                    "title": "Mental Movies",
+                    "header_size": "h4",
+                    "align": "center",
+                    "title_color": "#D4A84B",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "15",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "213052df",
+                  "settings": {
+                    "editor": "<p style=\"text-align:center;\">Visualise plays and performances, engaging both body and brain in the process, by adding in overcoming adversity.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "28d389e9",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F8F9FA",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "123aface",
+                  "settings": {
+                    "title": "Reflection Practice",
+                    "header_size": "h4",
+                    "align": "center",
+                    "title_color": "#D4A84B",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "15",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "507b8acd",
+                  "settings": {
+                    "editor": "<p style=\"text-align:center;\">Journal about lessons learned, growth opportunities, and mental performance insights.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "ede5c33",
+          "settings": {
+            "content_width": "full",
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "4",
+              "isLinked": false
+            },
+            "border_color": "#2A7D7D",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "20",
+              "isLinked": false
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "50",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "flex_align_items": "center",
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "px",
+              "size": 700,
+              "sizes": []
+            },
+            "_flex_align_self": "center",
+            "_element_custom_width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "_element_custom_width_tablet": {
+              "unit": "%",
+              "size": "",
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "1f1e0a3f",
+              "settings": {
+                "editor": "<p style=\"font-style:italic;\">\"Condition mindset like fitness: embed consistency and intentionality in all sessions.\"</p>",
+                "text_color": "#4A5568"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "4e898e72",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "787d5612",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "13d14cde",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F8F9FA",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "2730c488",
+          "settings": {
+            "title": "Technical Mental Skills: Precision Tools",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "2ce15c81",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">These are your precision mental tools - specific techniques you can use in training and games to manage thoughts, emotions, and performance states.</p>",
+            "text_color": "#4A5568",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "60",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "5e136a24",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 20,
+              "sizes": [],
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "px",
+              "size": 800,
+              "sizes": []
+            },
+            "_flex_align_self": "center",
+            "margin": {
+              "unit": "px",
+              "top": "-1",
+              "right": "-1",
+              "bottom": "-1",
+              "left": "-1",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "_element_custom_width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "_element_custom_width_tablet": {
+              "unit": "%",
+              "size": "",
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "59dfa4a5",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": [],
+                  "column": "25",
+                  "row": "25",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "30",
+                  "bottom": "25",
+                  "left": "30",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "575348c3",
+                  "settings": {
+                    "title": "1",
+                    "header_size": "h3",
+                    "title_color": "#2A7D7D",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 42,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "1a73f81b",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "2e6dc0ca",
+                      "settings": {
+                        "title": "Mental Routines",
+                        "header_size": "h4",
+                        "title_color": "#1A3A5C",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "5",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "77759ba8",
+                      "settings": {
+                        "editor": "<p>Build pre-play rituals, visual anchors, and ways to reframe pressure into power and opportunity.</p>",
+                        "text_color": "#4A5568"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "61226d32",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": [],
+                  "column": "25",
+                  "row": "25",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "30",
+                  "bottom": "25",
+                  "left": "30",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "2c5e3d0e",
+                  "settings": {
+                    "title": "2",
+                    "header_size": "h3",
+                    "title_color": "#2A7D7D",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 42,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "2088eff4",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "7ac9a46e",
+                      "settings": {
+                        "title": "State Management",
+                        "header_size": "h4",
+                        "title_color": "#1A3A5C",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "5",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "46fa31cd",
+                      "settings": {
+                        "editor": "<p>Use swish patterns to interrupt unhelpful states and replace them with high-performance responses.</p>",
+                        "text_color": "#4A5568"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "222db58d",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": [],
+                  "column": "25",
+                  "row": "25",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "30",
+                  "bottom": "25",
+                  "left": "30",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "3efeccd0",
+                  "settings": {
+                    "title": "3",
+                    "header_size": "h3",
+                    "title_color": "#2A7D7D",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 42,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "17b276cc",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "711ea6ba",
+                      "settings": {
+                        "title": "Mind Movies",
+                        "header_size": "h4",
+                        "title_color": "#1A3A5C",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "5",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "1661d03d",
+                      "settings": {
+                        "editor": "<p>Learn to change the \"movies in your mind\" - adjust how you see situations to change your performance.</p>",
+                        "text_color": "#4A5568"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "dae756c",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": [],
+                  "column": "25",
+                  "row": "25",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "30",
+                  "bottom": "25",
+                  "left": "30",
+                  "isLinked": false
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "4f8966ee",
+                  "settings": {
+                    "title": "4",
+                    "header_size": "h3",
+                    "title_color": "#2A7D7D",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 42,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "7ef76b5",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "5afb7d8c",
+                      "settings": {
+                        "title": "Communication Model",
+                        "header_size": "h4",
+                        "title_color": "#1A3A5C",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "5",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "1f1165b",
+                      "settings": {
+                        "editor": "<p>Understand how thoughts create feelings, which drive actions and ultimately determine results.</p>",
+                        "text_color": "#4A5568"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "28108e5c",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "47d162f1",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "4cdf8118",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "5d7bae34",
+          "settings": {
+            "title": "Tactical Mental Skills: Smart Game Thinking",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "27f9688a",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Mental tactics help you think smarter during games. These skills improve decision-making under pressure and expand your awareness on the field.</p>",
+            "text_color": "#4A5568",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "60",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "5ce7f969",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 30,
+              "sizes": [],
+              "column": "30",
+              "row": "30",
+              "isLinked": true
+            },
+            "flex_justify_content": "center"
+          },
+          "elements": [
+            {
+              "id": "3c9c41a7",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F8F9FA",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "4",
+                  "isLinked": false
+                },
+                "border_color": "#D4A84B"
+              },
+              "elements": [
+                {
+                  "id": "3fc851d1",
+                  "settings": {
+                    "title": "Peripheral Expansion",
+                    "header_size": "h4",
+                    "title_color": "#1A3A5C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "1a64540d",
+                  "settings": {
+                    "editor": "<p>Widen your awareness like a playmaker. See more of the field and more opportunities.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "6fb163c8",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F4845F",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "435f44ec",
+                  "settings": {
+                    "title": "Perspective Shifting",
+                    "header_size": "h4",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "504ff3a9",
+                  "settings": {
+                    "editor": "<p>View situations from different perspectives to open up more choices and better decisions.</p>",
+                    "text_color": "#FFFFFF"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "1445e91b",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "#F8F9FA",
+                "padding": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "4",
+                  "isLinked": false
+                },
+                "border_color": "#D4A84B"
+              },
+              "elements": [
+                {
+                  "id": "38480939",
+                  "settings": {
+                    "title": "Decision Processes",
+                    "header_size": "h4",
+                    "title_color": "#1A3A5C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "11a9cf1e",
+                  "settings": {
+                    "editor": "<p>Build simple decision-making models. Understand decisions as processes, not just reactions.</p>",
+                    "text_color": "#4A5568"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "611026d4",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "72adc21a",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "2c4505ab",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#F8F9FA",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "4975154a",
+          "settings": {
+            "title": "Strategic Mental Framework: Long-Term Success",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#1A3A5C"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "1d132f9",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Mental strategy connects your daily actions with long-term goals. It's about building sustainable excellence and leadership both on and off the field.</p>",
+            "text_color": "#4A5568",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "60",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "4e7980eb",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 25,
+              "sizes": [],
+              "column": "25",
+              "row": "25",
+              "isLinked": true
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "px",
+              "size": 700,
+              "sizes": []
+            },
+            "_flex_align_self": "center",
+            "margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "_element_custom_width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "_element_custom_width_tablet": {
+              "unit": "%",
+              "size": "",
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "7bb87d89",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": [],
+                  "column": "20",
+                  "row": "20",
+                  "isLinked": true
+                },
+                "flex_align_items": "flex-start"
+              },
+              "elements": [
+                {
+                  "id": "6ca16fe0",
+                  "settings": {
+                    "title": "1",
+                    "header_size": "h3",
+                    "title_color": "#E9ECEF",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 56,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "22e924b9",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "30686390",
+                      "settings": {
+                        "title": "Mental Blueprint",
+                        "header_size": "h4",
+                        "title_color": "#1A3A5C",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "8",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "14e35def",
+                      "settings": {
+                        "editor": "<p>Align daily habits with long-term vision using well-formed goals and the POWER model.</p>",
+                        "text_color": "#4A5568"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "3409aa6d",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": [],
+                  "column": "20",
+                  "row": "20",
+                  "isLinked": true
+                },
+                "flex_align_items": "flex-start"
+              },
+              "elements": [
+                {
+                  "id": "3beb3e1a",
+                  "settings": {
+                    "title": "2",
+                    "header_size": "h3",
+                    "title_color": "#E9ECEF",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 56,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "20564e51",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "4e3ccbdc",
+                      "settings": {
+                        "title": "Motivation Mastery",
+                        "header_size": "h4",
+                        "title_color": "#1A3A5C",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "8",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "7748a2ef",
+                      "settings": {
+                        "editor": "<p>Understand your motivation patterns (towards/away from) and use them consciously.</p>",
+                        "text_color": "#4A5568"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "1a60b13c",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": [],
+                  "column": "20",
+                  "row": "20",
+                  "isLinked": true
+                },
+                "flex_align_items": "flex-start"
+              },
+              "elements": [
+                {
+                  "id": "6b3fe739",
+                  "settings": {
+                    "title": "3",
+                    "header_size": "h3",
+                    "title_color": "#E9ECEF",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 56,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "79929d33",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "column"
+                  },
+                  "elements": [
+                    {
+                      "id": "d2fd0c8",
+                      "settings": {
+                        "title": "Self-Leadership",
+                        "header_size": "h4",
+                        "title_color": "#1A3A5C",
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "_margin": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "8",
+                          "left": "0",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "heading",
+                      "elType": "widget"
+                    },
+                    {
+                      "id": "3e498021",
+                      "settings": {
+                        "editor": "<p>Develop leadership skills: giving feedback, resolving conflicts, and having performance conversations.</p>",
+                        "text_color": "#4A5568"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "text-editor",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "container"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "46d89b38",
+          "settings": {
+            "editor": "<h3 style=\"font-style: italic; text-align: center;\">This strategic approach helps create mental structures that sustain excellence under pressure, moving beyond fear and hope into enacted courage.</h3>",
+            "text_color": "#4A5568",
+            "_margin": {
+              "unit": "px",
+              "top": "40",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "43a76caa",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "33d26dee",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "765407df",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#2A7D7D",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center",
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "948f883",
+          "settings": {
+            "title": "Courage in Action",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 56,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#FFFFFF"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "5cb0f869",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Performance isn't just about physical execution - it's about creating mental structures that sustain excellence under pressure.</p>",
+            "text_color": "#FFFFFF",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "40",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "1dcbcbf6",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 20,
+              "sizes": [],
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "flex_justify_content": "center",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "40",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "24d93508",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "rgba(255,255,255,0.15)",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "1bbd9cd2",
+                  "settings": {
+                    "title": "Focus on Now",
+                    "header_size": "h4",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "f029fa7",
+                  "settings": {
+                    "editor": "<p>Ground yourself in what you can do in this moment</p>",
+                    "text_color": "rgba(255,255,255,0.85)"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "ac1fd0c",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "rgba(255,255,255,0.15)",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "26332bb7",
+                  "settings": {
+                    "title": "Train Daily",
+                    "header_size": "h4",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "71d63da4",
+                  "settings": {
+                    "editor": "<p>Build mental fitness through consistent practice</p>",
+                    "text_color": "rgba(255,255,255,0.85)"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            },
+            {
+              "id": "50044bf9",
+              "settings": {
+                "content_width": "full",
+                "background_background": "classic",
+                "background_color": "rgba(255,255,255,0.15)",
+                "padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "25",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": true
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "size": 8
+                }
+              },
+              "elements": [
+                {
+                  "id": "43e6b00b",
+                  "settings": {
+                    "title": "Lead Yourself",
+                    "header_size": "h4",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "10",
+                      "left": "0",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "4ae568b0",
+                  "settings": {
+                    "editor": "<p>Take ownership of your mental development journey</p>",
+                    "text_color": "rgba(255,255,255,0.85)"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "40a09a31",
+          "settings": {
+            "content_width": "full",
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "3",
+              "isLinked": false
+            },
+            "border_color": "rgba(255,255,255,0.5)",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "20",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "px",
+              "size": 700,
+              "sizes": []
+            },
+            "_flex_align_self": "center",
+            "_element_custom_width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "_element_custom_width_tablet": {
+              "unit": "%",
+              "size": "",
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "475f9b86",
+              "settings": {
+                "editor": "<h3 style=\"font-style: italic;\">\"This framework keeps us out of fear and hope and grounds us in courage: the enacted presence to focus on what we can do now.\"</h3>",
+                "text_color": "#FFFFFF"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "777956cc",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "0",
+          "bottom": "40",
+          "left": "0",
+          "isLinked": false
+        },
+        "flex_align_items": "center"
+      },
+      "elements": [
+        {
+          "id": "42310805",
+          "settings": {
+            "title": "+",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 48,
+              "sizes": []
+            },
+            "typography_font_weight": "300",
+            "title_color": "#D4A84B"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "72083a24",
+      "settings": {
+        "boxed_width": {
+          "unit": "%",
+          "size": 80,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#1A3A5C",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        },
+        "flex_align_items": "center",
+        "boxed_width_tablet": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        },
+        "boxed_width_mobile": {
+          "unit": "%",
+          "size": "",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "1b940151",
+          "settings": {
+            "title": "Ready to Build Your Mental Skills?",
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "400",
+            "title_color": "#FFFFFF"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "7246d622",
+          "settings": {
+            "editor": "<p style=\"text-align:center;\">Start your journey to mental excellence with Head-Coach. Train your mind like you train your body.</p>",
+            "text_color": "rgba(255,255,255,0.8)",
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "40",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "c4df08b",
+          "settings": {
+            "text": "Contact us today",
+            "link": {
+              "url": "https://calendly.com/jay-hedley-thecoachingroom",
+              "is_external": "true",
+              "nofollow": "",
+              "custom_attributes": ""
+            },
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Source Sans Pro",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_weight": "600",
+            "button_text_color": "#1A3A5C",
+            "background_color": "#FFFFFF",
+            "border_radius": {
+              "unit": "px",
+              "size": 0
+            },
+            "text_padding": {
+              "unit": "px",
+              "top": "16",
+              "right": "32",
+              "bottom": "16",
+              "left": "32",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "button",
+          "elType": "widget"
+        },
+        {
+          "id": "3181832f",
+          "settings": {
+            "editor": "<h4 style=\"text-align: center;\">Speak to us: +61 414 369 363</h4>",
+            "text_color": "#FFFFFF",
+            "_margin": {
+              "unit": "px",
+              "top": "25",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ],
+  "page_settings": {
+    "scroll_snap": "yes"
+  },
+  "version": "0.4",
+  "title": "Mental Skills 2026 mobile",
+  "type": "page"
+}
