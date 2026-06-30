@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: red;
+        font-size: 18px;
+        letter-spacing: .1em;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        font-family: SourceCodePro-Bold, 'Source Code Pro';
+        font-weight: 700;
+      }
+
+      .st3 {
+        fill: #f4845f;
+      }
+
+      .st1 {
+        font-family: SourceCodePro-Semibold, 'Source Code Pro';
+        font-size: 20px;
+        font-weight: 600;
+        letter-spacing: 0em;
+      }
+
+      .st1, .st4, .st2 {
+        fill: #fff;
+      }
+
+      .st5 {
+        fill: #2a7d7d;
+      }
+
+      .st2 {
+        font-size: 22px;
+        letter-spacing: .1em;
+      }
+    </style>
+  </defs>
+  <circle class="st5" cx="250" cy="250" r="230"/>
+  <circle class="st3" cx="250" cy="250" r="155"/>
+  <circle class="st4" cx="250" cy="250" r="70"/>
+  <text class="st0" transform="translate(205.2 256)"><tspan x="0" y="0">CONTROL</tspan></text>
+  <text class="st1" transform="translate(187 150)"><tspan x="0" y="0">INFLUENCE</tspan></text>
+  <text class="st2" transform="translate(201.4 73)"><tspan x="0" y="0">LET GO</tspan></text>
+  <text class="st2" transform="translate(201.4 450)"><tspan x="0" y="0">ACCEPT</tspan></text>
+</svg>
